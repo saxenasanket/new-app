@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "git@github.com:saxenasanket/new-app.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "git@github.com:saxenasanket/new-app.git/static/js/main.0d2e7b09.chunk.js",
-    "main.js.map": "git@github.com:saxenasanket/new-app.git/static/js/main.0d2e7b09.chunk.js.map",
-    "runtime-main.js": "git@github.com:saxenasanket/new-app.git/static/js/runtime-main.344a3ee0.js",
-    "runtime-main.js.map": "git@github.com:saxenasanket/new-app.git/static/js/runtime-main.344a3ee0.js.map",
-    "static/js/2.01623daa.chunk.js": "git@github.com:saxenasanket/new-app.git/static/js/2.01623daa.chunk.js",
-    "static/js/2.01623daa.chunk.js.map": "git@github.com:saxenasanket/new-app.git/static/js/2.01623daa.chunk.js.map",
-    "index.html": "git@github.com:saxenasanket/new-app.git/index.html",
-    "precache-manifest.0365f16cf0c24bd0fd67e0f842f0dc74.js": "git@github.com:saxenasanket/new-app.git/precache-manifest.0365f16cf0c24bd0fd67e0f842f0dc74.js",
-    "service-worker.js": "git@github.com:saxenasanket/new-app.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "git@github.com:saxenasanket/new-app.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.01623daa.chunk.js.LICENSE": "git@github.com:saxenasanket/new-app.git/static/js/2.01623daa.chunk.js.LICENSE",
-    "static/media/logo.svg": "git@github.com:saxenasanket/new-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/saxenasanket/new-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/saxenasanket/new-app/static/js/main.c1cba29b.chunk.js",
+    "main.js.map": "/saxenasanket/new-app/static/js/main.c1cba29b.chunk.js.map",
+    "runtime-main.js": "/saxenasanket/new-app/static/js/runtime-main.cf2c6f97.js",
+    "runtime-main.js.map": "/saxenasanket/new-app/static/js/runtime-main.cf2c6f97.js.map",
+    "static/js/2.01623daa.chunk.js": "/saxenasanket/new-app/static/js/2.01623daa.chunk.js",
+    "static/js/2.01623daa.chunk.js.map": "/saxenasanket/new-app/static/js/2.01623daa.chunk.js.map",
+    "index.html": "/saxenasanket/new-app/index.html",
+    "precache-manifest.fb2ee83e0775634a0e83965092ac5ad7.js": "/saxenasanket/new-app/precache-manifest.fb2ee83e0775634a0e83965092ac5ad7.js",
+    "service-worker.js": "/saxenasanket/new-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/saxenasanket/new-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.01623daa.chunk.js.LICENSE": "/saxenasanket/new-app/static/js/2.01623daa.chunk.js.LICENSE",
+    "static/media/logo.svg": "/saxenasanket/new-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.344a3ee0.js",
+    "static/js/runtime-main.cf2c6f97.js",
     "static/js/2.01623daa.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0d2e7b09.chunk.js"
+    "static/js/main.c1cba29b.chunk.js"
   ]
 }
